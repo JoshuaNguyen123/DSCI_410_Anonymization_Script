@@ -1,7 +1,5 @@
 # DSCI_410_Anonymization_Script
 
----
-
 # Python Script for Data Processing and Analysis
 
 This README provides details about a Python script that utilizes various libraries to perform data processing, natural language processing (NLP), and visualization tasks. The script is designed to be a comprehensive tool for analyzing text data and generating synthetic data for testing purposes.
